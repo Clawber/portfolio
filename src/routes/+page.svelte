@@ -48,8 +48,6 @@
     }
 </script>
 
-<Navbar />
-
 <section class="min-h-screen bg-gradient-to-r from-gray-900 to-gray-700 text-white py-16 md:py-24 lg:py-32">
   <div class="container mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-12">
 
