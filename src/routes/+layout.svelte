@@ -1,5 +1,5 @@
 <script>
-	export const prerender = true;
+	
 	import '../app.css';
 
 	let { children } = $props();
@@ -9,3 +9,4 @@
 <!-- <Navbar />  -->
 
 {@render children()}
+export const prerender = true;
