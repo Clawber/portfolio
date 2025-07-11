@@ -1,11 +1,11 @@
 <script>
 	import Navbar from '$lib/Navbar.svelte';
-import '../app.css';
+	import '../app.css';
 
 	let { children } = $props();
 	import "../app.css"
 </script>
 
-<Navbar /> 
+<!-- <Navbar />  -->
 
 {@render children()}

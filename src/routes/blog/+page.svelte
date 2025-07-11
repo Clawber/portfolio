@@ -1,1 +1,1 @@
-<p class="flex-grow ">Hello world</p>
+<p class="w-3 bg-gray-800 flex-grow">Hello world</p>

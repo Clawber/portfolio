@@ -36,9 +36,9 @@
         <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-6">
           About
         </a>
-        <a href="/services" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-6">
+        <!-- <a href="/services" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-6">
           Services
-        </a>
+        </a> -->
         <a href="/contact" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white">
           Contact
         </a>
@@ -61,9 +61,9 @@
         <a href="/about" class="block text-gray-300 hover:text-white py-2">
           About
         </a>
-        <a href="/services" class="block text-gray-300 hover:text-white py-2">
+        <!-- <a href="/services" class="block text-gray-300 hover:text-white py-2">
           Services
-        </a>
+        </a> -->
         <a href="/contact" class="block text-gray-300 hover:text-white py-2">
           Contact
         </a>
