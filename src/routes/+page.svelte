@@ -4,7 +4,7 @@
   import About from '$lib/components/sections/About.svelte';
   import Skills from '$lib/components/sections/Skills.svelte';
   import Projects from '$lib/components/sections/Projects.svelte';
-  // import Services from '$lib/components/sections/Services.svelte';
+  // import Services from '$lib/components/sections/Services.svelte'; test commit
   import Contact from '$lib/components/sections/Contact.svelte';
 </script>
 
