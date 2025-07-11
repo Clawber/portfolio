@@ -10,7 +10,7 @@
 
 <Header />
 
-<main class="flex flex-col">
+<main class="flex flex-col bg-black">
     <Hero />
     <About />
     <Skills />
@@ -19,7 +19,7 @@
     <Contact />
 </main>
 
-<footer class="text-center py-6 text-sm text-slate">
+<footer class="text-center py-6 text-sm text-slate bg-neutral-800">
     <p>Designed & Built by John Erick Sarenas</p>
 </footer>
 

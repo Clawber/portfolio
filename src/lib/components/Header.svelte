@@ -11,7 +11,7 @@
     </a>
     
     <!-- Desktop Menu -->
-    <div class="hidden md:flex space-x-8 items-center">
+    <div class="hidden md:flex space-x-8 items-center text-white">
       <a href="#about" class="hover:text-teal transition-colors">About</a>
       <a href="#skills" class="hover:text-teal transition-colors">Skills</a>
       <a href="#projects" class="hover:text-teal transition-colors">Projects</a>
