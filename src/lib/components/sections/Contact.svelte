@@ -1,5 +1,6 @@
 <script>
     import { Github, Linkedin } from 'lucide-svelte';
+    // TODO: Lucide
 </script>
 
 <section id="contact" class="py-20 md:py-32 text-center container mx-auto px-6">
@@ -9,7 +10,7 @@
         I'm actively seeking new opportunities and I'm always open to discussing new projects. Whether you have a question or just want to say hi, I'll do my best to get back to you!
     </p>
 
-    <a href="mailto:johnerick.sarenas@email.com" class="inline-block bg-transparent border border-teal text-teal font-mono text-lg py-3 px-8 rounded hover:bg-teal/10 transition-all duration-300">
+    <a href="mailto:clawberick@gmail.com" class="inline-block bg-transparent border border-teal text-teal font-mono text-lg py-3 px-8 rounded hover:bg-teal/10 transition-all duration-300">
         Say Hello
     </a>
 

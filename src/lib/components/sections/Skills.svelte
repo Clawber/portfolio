@@ -19,7 +19,7 @@
         <div class="bg-light-navy p-6 rounded-lg">
             <Settings class="mx-auto text-teal mb-4" size={48} />
             <h3 class="text-xl font-bold text-lightest-slate mb-2">Frameworks & Libraries</h3>
-            <p class="font-mono text-slate">SvelteKit, Node.js, Express.js, Tailwind CSS</p>
+            <p class="font-mono text-slate">SvelteKit, React.js, Node.js, Express.js, Tailwind CSS</p>
         </div>
 
         <!-- Databases -->
@@ -35,6 +35,12 @@
             <h3 class="text-xl font-bold text-lightest-slate mb-2">Tools & Platforms</h3>
             <p class="font-mono text-slate">Git, GitHub, AWS, Docker, Vercel</p>
         </div>
+
+
+
+
+
+
 
         <!-- Soft Skills -->
         <div class="bg-light-navy p-6 rounded-lg md:col-span-2 lg:col-span-1">

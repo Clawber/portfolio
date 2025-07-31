@@ -3,23 +3,29 @@
     
     const projects = [
         {
-            title: "E-Commerce Platform",
-            description: "A full-featured online store with a custom CMS, payment integration, and a responsive user interface.",
-            tech: ["SvelteKit", "Node.js", "PostgreSQL", "Stripe API"],
+            title: "SmokeTrace – Real-Time IoT Smoke Monitoring Platform",
+            description: "An end-to-end IoT system that tracks smoke levels in real time, with a custom frontend, backend, and scalable systems architecture for live data monitoring.",
+            tech: ["SvelteKit", "Node.js", "PostgreSQL", "Firebase", "Deno"],
             link: "https://github.com/your-username/project-one"
         },
         {
-            title: "Real-Time Chat Application",
-            description: "A scalable chat app using WebSockets for instant messaging and presence indicators.",
-            tech: ["Svelte", "Express", "Socket.io", "MongoDB"],
+            title: "Jeeps – Real-Time Fleet Tracking for Philippine Jeepneys",
+            description: "A GPS-based fleet tracking system with real-time location updates and a responsive user interface for monitoring public transport vehicles.",
+            tech: ["Svelte", "Node.js", "Postgresql", "MongoDB"],
             link: "https://github.com/your-username/project-two"
         },
         {
-            title: "Data Visualization Dashboard",
-            description: "An analytics dashboard that fetches and displays complex data sets in interactive charts and graphs.",
-            tech: ["SvelteKit", "D3.js", "Tailwind CSS", "REST API"],
+            title: "Gemma – AI-Powered Learning Platform for Students",
+            description: "An AI-driven learning platform that personalizes content and adapts to student performance through intelligent recommendations and data analytics.",
+            tech: ["SvelteKit", "Node.js", "Gemini API"],
             link: "https://github.com/your-username/project-three"
-        }
+        },
+        // {
+        //     title: "Time Series Analysis",
+        //     description: "An analytics dashboard that fetches and displays complex data sets in interactive charts and graphs.",
+        //     tech: ["SvelteKit", "D3.js", "Tailwind CSS", "REST API"],
+        //     link: "https://github.com/your-username/project-three"
+        // }
     ];
 </script>
 
